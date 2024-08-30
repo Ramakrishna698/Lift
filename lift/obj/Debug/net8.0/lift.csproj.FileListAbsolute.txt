@@ -1,0 +1,14 @@
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\lift\bin\Debug\net8.0\lift.exe
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\lift\bin\Debug\net8.0\lift.deps.json
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\lift\bin\Debug\net8.0\lift.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\lift\bin\Debug\net8.0\lift.dll
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\lift\bin\Debug\net8.0\lift.pdb
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\lift\obj\Debug\net8.0\lift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\lift\obj\Debug\net8.0\lift.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\lift\obj\Debug\net8.0\lift.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\lift\obj\Debug\net8.0\lift.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\lift\obj\Debug\net8.0\lift.dll
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\lift\obj\Debug\net8.0\refint\lift.dll
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\lift\obj\Debug\net8.0\lift.pdb
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\lift\obj\Debug\net8.0\lift.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Desktop\SAI\.NET programs\lift\obj\Debug\net8.0\ref\lift.dll
