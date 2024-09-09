@@ -109,7 +109,6 @@ namespace Fp
                 {
                     break;
                 }
-
             }
             Console.ForegroundColor= ConsoleColor.White;
         }
